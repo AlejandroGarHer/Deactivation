@@ -1,2 +1,2 @@
 # Deactivation
-Deactivation policy
+Deactivation privacy policy
